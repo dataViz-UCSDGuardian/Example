@@ -6,12 +6,9 @@
 
 
 ## Sources: ##
+- link
+- link
 
-
-## Libraries Used: ##
-- matplotlib
-- bokeh
-
-## Commits: ##
-1. Commit
-2. Commit
+## Libraries: ##
+- ex: matplotlib
+- ex: bokeh
