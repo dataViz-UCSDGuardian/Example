@@ -17,7 +17,7 @@
 #### REPEAT STEPS 2-4
 
 ### 5) Push to Group
-> git remote add [URL]
+> git remote add origin [URL]
 > git push origin master
 
 ## Other
