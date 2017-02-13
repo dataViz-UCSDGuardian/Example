@@ -1,19 +1,37 @@
-# [Title] #
-[Author]
-[Date]
+# [Title]  
+"#[Project Title]"  
+### Author(s):  
+"### Author(s):  "  
+" [Names]"  
+### Timeline:  
+"### Timeline:  "  
+"[Dates of significant changes/additions]"  
+### Summary:
+"### Summary:  "  
+### Key Points:  
+"### Key Points:  "   
 
-## Summary: ##
-
-## Key Points: ##
-
-## Sources: ##
+### Sources:  
 - link [accompanying data file]
 - link [accompanying data file]
 
-## Libraries: ##
+### Libraries:  
 - ex: matplotlib
 - ex: bokeh
 - ex: pandas
 
-## Final Visualizations ##
+"### Libraries:"  
+"- ex: matplotlib"  
+"- ex: bokeh"  
+"- ex: pandas"  
+
+### Final Visualizations  
 - [jpeg or png file(s)]
+
+"### Final Visualizations  "  
+"- [jpeg or png file(s)]  "
+
+
+####
+#### For help in markdown formatting
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
