@@ -22,7 +22,7 @@
 - link [accompanying data file]
 - link [accompanying data file]
 
-\>\>\#\#\#\ Sources:    
+\>\>\#\#\# Sources:    
 \>\>\- link [accompanying data file]  
 \>\>\- link [accompanying data file]
 
@@ -39,8 +39,8 @@
 ### Final Visualizations  
 - [jpeg or png file(s)]
 
-/>/>/#/#/# Final Visualizations    
-/>/>/- [jpeg or png file(s)]  
+\>\>\#\#\# Final Visualizations    
+\>\>\- [jpeg or png file(s)]  
 
 
 
