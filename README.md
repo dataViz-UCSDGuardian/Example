@@ -36,12 +36,14 @@
 \>\>\- ex: bokeh  
 \>\>\- ex: pandas  
 
-### Final Visualizations  
+### Final Visualizations:  
 - [jpeg or png file(s)]
 
 \>\>\#\#\# Final Visualizations    
 \>\>\- [jpeg or png file(s)]  
 
+####to insert image:
+\>\>!\[Image title]([github URL])
 
 
 #### For help in markdown formatting
